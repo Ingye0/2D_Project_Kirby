@@ -1,0 +1,450 @@
+fileFormatVersion: 2
+guid: bc67c8a1b686011419dfdc2d94769894
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1188745350009153530
+    second: sparkkirby3_0
+  - first:
+      213: 5912261802092967748
+    second: sparkkirby3_1
+  - first:
+      213: -3933876666297449765
+    second: sparkkirby3_2
+  - first:
+      213: 7781280824132285814
+    second: sparkkirby3_3
+  - first:
+      213: -4137030534578639424
+    second: sparkkirby3_4
+  - first:
+      213: 3413836189895465964
+    second: sparkkirby3_5
+  - first:
+      213: 2477989784333875722
+    second: sparkkirby3_6
+  - first:
+      213: 3009824472401975147
+    second: sparkkirby3_7
+  - first:
+      213: -9119113539229594527
+    second: sparkkirby3_8
+  - first:
+      213: 2424811244719269558
+    second: sparkkirby3_9
+  - first:
+      213: -1202168363441928578
+    second: sparkkirby3_10
+  - first:
+      213: -1951405652028455515
+    second: sparkkirby3_11
+  - first:
+      213: 1481308644546970179
+    second: sparkkirby3_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sparkkirby3_0
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 10
+        width: 88
+        height: 139
+      alignment: 9
+      pivot: {x: 0.4930621, y: 0.33309636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af761bbf8954f7010800000000000000
+      internalID: 1188745350009153530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkkirby3_1
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 10
+        width: 88
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5277502, y: 0.3381208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447bcd4d8c29c0250800000000000000
+      internalID: 5912261802092967748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkkirby3_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 10
+        width: 90
+        height: 105
+      alignment: 9
+      pivot: {x: 0.49999967, y: 0.3837115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675b6fbbea9acfb60800000000000000
+      internalID: 7781280824132285814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkkirby3_4
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 10
+        width: 94
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5064944, y: 0.3837115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cdee71d5a05696c0800000000000000
+      internalID: -4137030534578639424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkkirby3_5
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 10
+        width: 84
+        height: 112
+      alignment: 9
+      pivot: {x: 0.49273136, y: 0.34192014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb971c6de1606f20800000000000000
+      internalID: 3413836189895465964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkkirby3_6
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 6
+        width: 84
+        height: 106
+      alignment: 9
+      pivot: {x: 0.49999964, y: 0.39056796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a74447496936220800000000000000
+      internalID: 2477989784333875722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkkirby3_8
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 3
+        width: 101
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5120892, y: 0.46608245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16cc3cb1d86627180800000000000000
+      internalID: -9119113539229594527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkkirby3_9
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 6
+        width: 87
+        height: 99
+      alignment: 9
+      pivot: {x: 0.51403457, y: 0.395164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b66dd8daf8a6a120800000000000000
+      internalID: 2424811244719269558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkkirby3_10
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 0
+        width: 100
+        height: 97
+      alignment: 9
+      pivot: {x: 0.45115843, y: 0.518882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76c4d82e3a015fe0800000000000000
+      internalID: -1202168363441928578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkkirby3_11
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 0
+        width: 100
+        height: 93
+      alignment: 9
+      pivot: {x: 0.4877893, y: 0.5131295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5872206e63be4e0800000000000000
+      internalID: -1951405652028455515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkkirby3_12
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 10
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34200f82d5aae8410800000000000000
+      internalID: 1481308644546970179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e0dbcb5fa5c79ba42bc013c2f289b91b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sparkkirby3_0: 1188745350009153530
+      sparkkirby3_1: 5912261802092967748
+      sparkkirby3_10: -1202168363441928578
+      sparkkirby3_11: -1951405652028455515
+      sparkkirby3_12: 1481308644546970179
+      sparkkirby3_2: -3933876666297449765
+      sparkkirby3_3: 7781280824132285814
+      sparkkirby3_4: -4137030534578639424
+      sparkkirby3_5: 3413836189895465964
+      sparkkirby3_6: 2477989784333875722
+      sparkkirby3_7: 3009824472401975147
+      sparkkirby3_8: -9119113539229594527
+      sparkkirby3_9: 2424811244719269558
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

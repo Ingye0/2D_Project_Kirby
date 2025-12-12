@@ -1,0 +1,1014 @@
+fileFormatVersion: 2
+guid: 4836507b8ddbb0341bba8ebe04ec9fcd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4111323076096114987
+    second: beamkirby2_0
+  - first:
+      213: -4226898285820174038
+    second: beamkirby2_1
+  - first:
+      213: -61239867123214988
+    second: beamkirby2_2
+  - first:
+      213: 7802415550329109314
+    second: beamkirby2_3
+  - first:
+      213: -509214106787792980
+    second: beamkirby2_4
+  - first:
+      213: -4775946202628965773
+    second: beamkirby2_5
+  - first:
+      213: -8110347060952754037
+    second: beamkirby2_6
+  - first:
+      213: 3437487724848171600
+    second: beamkirby2_7
+  - first:
+      213: -4993810269039412168
+    second: beamkirby2_8
+  - first:
+      213: -8808592930578748977
+    second: beamkirby2_9
+  - first:
+      213: -789589385303095754
+    second: beamkirby2_10
+  - first:
+      213: -4289137680707503616
+    second: beamkirby2_11
+  - first:
+      213: 1151658241508926700
+    second: beamkirby2_12
+  - first:
+      213: 5161254672943075356
+    second: beamkirby2_13
+  - first:
+      213: 7885632239075411450
+    second: beamkirby2_14
+  - first:
+      213: -1095256591804059905
+    second: beamkirby2_15
+  - first:
+      213: -3043078843164141715
+    second: beamkirby2_16
+  - first:
+      213: 7760637644219761138
+    second: beamkirby2_17
+  - first:
+      213: -3308328082359268482
+    second: beamkirby2_18
+  - first:
+      213: 3441084292932261061
+    second: beamkirby2_19
+  - first:
+      213: -3889129539785532331
+    second: beamkirby2_20
+  - first:
+      213: 2955429001982747243
+    second: beamkirby2_21
+  - first:
+      213: -7574895943686382007
+    second: beamkirby2_22
+  - first:
+      213: -7115286886299902037
+    second: beamkirby2_23
+  - first:
+      213: -3588307252398751936
+    second: beamkirby2_24
+  - first:
+      213: 4275713678559980336
+    second: beamkirby2_25
+  - first:
+      213: 8764842410406676166
+    second: beamkirby2_26
+  - first:
+      213: 7606573867073768763
+    second: beamkirby2_27
+  - first:
+      213: -8732011122161823289
+    second: beamkirby2_28
+  - first:
+      213: 4750408093905329350
+    second: beamkirby2_29
+  - first:
+      213: -2276952685688902176
+    second: beamkirby2_30
+  - first:
+      213: -4428609413165907011
+    second: beamkirby2_31
+  - first:
+      213: 1592339000579482522
+    second: beamkirby2_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: beamkirby2_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 185
+        width: 55
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5059009, y: 0.32795733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2143931e8a5e0930800000000000000
+      internalID: 4111323076096114987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beamkirby2_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 185
+        width: 54
+        height: 83
+      alignment: 9
+      pivot: {x: 0.51202065, y: 0.3553281}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a212bf3776a0755c0800000000000000
+      internalID: -4226898285820174038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beamkirby2_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 185
+        width: 54
+        height: 78
+      alignment: 9
+      pivot: {x: 0.50601053, y: 0.35853615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47557025aae662ff0800000000000000
+      internalID: -61239867123214988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beamkirby2_3
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 186
+        width: 56
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5057959, y: 0.410129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24bb953aa9fb74c60800000000000000
+      internalID: 7802415550329109314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beamkirby2_4
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 185
+        width: 52
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5000006, y: 0.47761878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7bb42c778eee8f0800000000000000
+      internalID: -509214106787792980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beamkirby2_5
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 185
+        width: 52
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5124829, y: 0.44591114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37abce59b3e68bdb0800000000000000
+      internalID: -4775946202628965773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beamkirby2_6
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 185
+        width: 56
+        height: 60
+      alignment: 9
+      pivot: {x: 0.49420547, y: 0.46213785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8817ca8152427f80800000000000000
+      internalID: -8110347060952754037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beamkirby2_7
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 182
+        width: 58
+        height: 50
+      alignment: 9
+      pivot: {x: 0.48881003, y: 0.5778891}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a47578fd864bf20800000000000000
+      internalID: 3437487724848171600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beamkirby2_8
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 174
+        width: 57
+        height: 58
+      alignment: 9
+      pivot: {x: 0.48861426, y: 0.54476404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c3536c40c62bab0800000000000000
+      internalID: -4993810269039412168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beamkirby2_9
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 164
+        width: 55
+        height: 65
+      alignment: 9
+      pivot: {x: 0.50000113, y: 0.58987194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc926d9466791c580800000000000000
+      internalID: -8808592930578748977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beamkirby2_10
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 161
+        width: 52
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49376032, y: 0.5748932}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636079233a0da05f0800000000000000
+      internalID: -789589385303095754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beamkirby2_11
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 169
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00abfa4110ce974c0800000000000000
+      internalID: -4289137680707503616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beamkirby2_12
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 184
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce46ac3a1138bff00800000000000000
+      internalID: 1151658241508926700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beamkirby2_13
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 185
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10d81097c570a740800000000000000
+      internalID: 5161254672943075356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beamkirby2_14
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 185
+        width: 55
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af54577ddb46f6d60800000000000000
+      internalID: 7885632239075411450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beamkirby2_15
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 185
+        width: 54
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe2d93ceeddcc0f0800000000000000
+      internalID: -1095256591804059905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beamkirby2_16
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 185
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67d1b14aefc4c5d0800000000000000
+      internalID: -3043078843164141715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beamkirby2_17
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 80
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f14e3ed1d253bb60800000000000000
+      internalID: 7760637644219761138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beamkirby2_18
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 80
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7bc68a23257612d0800000000000000
+      internalID: -3308328082359268482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beamkirby2_19
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 80
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4576aceef21cf20800000000000000
+      internalID: 3441084292932261061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beamkirby2_20
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 80
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55cda9ff949070ac0800000000000000
+      internalID: -3889129539785532331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beamkirby2_21
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 80
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62a11ec40bc30920800000000000000
+      internalID: 2955429001982747243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beamkirby2_22
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 80
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e9602d54090e690800000000000000
+      internalID: -7574895943686382007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beamkirby2_23
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 79
+        width: 63
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf591b764c614d90800000000000000
+      internalID: -7115286886299902037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beamkirby2_24
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 80
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f70dbc095c33ec0800000000000000
+      internalID: -3588307252398751936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beamkirby2_25
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 80
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ba8dbdfe2665b30800000000000000
+      internalID: 4275713678559980336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beamkirby2_26
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 80
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c68190fbb9f2a970800000000000000
+      internalID: 8764842410406676166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beamkirby2_27
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 80
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d83b871aaff8960800000000000000
+      internalID: 7606573867073768763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beamkirby2_28
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1
+        width: 62
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1d8c8062aa1d680800000000000000
+      internalID: -8732011122161823289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beamkirby2_29
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 2
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc1e5f1ef6dce140800000000000000
+      internalID: 4750408093905329350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beamkirby2_30
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 2
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed242f9893a660e0800000000000000
+      internalID: -2276952685688902176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beamkirby2_31
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db38b47d33b6a82c0800000000000000
+      internalID: -4428609413165907011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beamkirby2_32
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a936a8b62ef191610800000000000000
+      internalID: 1592339000579482522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8b65559671374604292a9d5a7686f3f2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      beamkirby2_0: 4111323076096114987
+      beamkirby2_1: -4226898285820174038
+      beamkirby2_10: -789589385303095754
+      beamkirby2_11: -4289137680707503616
+      beamkirby2_12: 1151658241508926700
+      beamkirby2_13: 5161254672943075356
+      beamkirby2_14: 7885632239075411450
+      beamkirby2_15: -1095256591804059905
+      beamkirby2_16: -3043078843164141715
+      beamkirby2_17: 7760637644219761138
+      beamkirby2_18: -3308328082359268482
+      beamkirby2_19: 3441084292932261061
+      beamkirby2_2: -61239867123214988
+      beamkirby2_20: -3889129539785532331
+      beamkirby2_21: 2955429001982747243
+      beamkirby2_22: -7574895943686382007
+      beamkirby2_23: -7115286886299902037
+      beamkirby2_24: -3588307252398751936
+      beamkirby2_25: 4275713678559980336
+      beamkirby2_26: 8764842410406676166
+      beamkirby2_27: 7606573867073768763
+      beamkirby2_28: -8732011122161823289
+      beamkirby2_29: 4750408093905329350
+      beamkirby2_3: 7802415550329109314
+      beamkirby2_30: -2276952685688902176
+      beamkirby2_31: -4428609413165907011
+      beamkirby2_32: 1592339000579482522
+      beamkirby2_4: -509214106787792980
+      beamkirby2_5: -4775946202628965773
+      beamkirby2_6: -8110347060952754037
+      beamkirby2_7: 3437487724848171600
+      beamkirby2_8: -4993810269039412168
+      beamkirby2_9: -8808592930578748977
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

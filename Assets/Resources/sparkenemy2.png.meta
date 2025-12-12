@@ -1,0 +1,348 @@
+fileFormatVersion: 2
+guid: 7b2e2781c3880344eaedb7489a3634da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1952378026389739179
+    second: sparkenemy2_0
+  - first:
+      213: 6477626082507993164
+    second: sparkenemy2_1
+  - first:
+      213: -2515383974426316936
+    second: sparkenemy2_2
+  - first:
+      213: 7570203481073349304
+    second: sparkenemy2_3
+  - first:
+      213: -968851143037389021
+    second: sparkenemy2_4
+  - first:
+      213: -6873233774782675658
+    second: sparkenemy2_5
+  - first:
+      213: -6192191636507864081
+    second: sparkenemy2_6
+  - first:
+      213: 520735313620662363
+    second: sparkenemy2_7
+  - first:
+      213: -1739177839224269322
+    second: sparkenemy2_8
+  - first:
+      213: 6077404585756956928
+    second: sparkenemy2_9
+  - first:
+      213: -5793522988133890223
+    second: sparkenemy2_10
+  - first:
+      213: -7094271259707695242
+    second: sparkenemy2_11
+  - first:
+      213: -8444615477696551535
+    second: sparkenemy2_12
+  - first:
+      213: -6457243525726030220
+    second: sparkenemy2_13
+  - first:
+      213: -5773581835045597363
+    second: sparkenemy2_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sparkenemy2_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 45
+        width: 163
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559e2c57782c7e4e0800000000000000
+      internalID: -1952378026389739179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkenemy2_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 29
+        width: 191
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40b1b32a9625e950800000000000000
+      internalID: 6477626082507993164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkenemy2_3
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 36
+        width: 188
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b27dc615f3ce0960800000000000000
+      internalID: 7570203481073349304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkenemy2_6
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 100
+        width: 253
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3ddc4a38ae01aa0800000000000000
+      internalID: -6192191636507864081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkenemy2_7
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 29
+        width: 193
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b587c5e32060a3700800000000000000
+      internalID: 520735313620662363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sparkenemy2_8
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 0
+        width: 79
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f55ec348f23dd7e0800000000000000
+      internalID: -1739177839224269322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 00fdfd4f9ef5f164fa58feaaaf988f0e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sparkenemy2_0: -1952378026389739179
+      sparkenemy2_1: 6477626082507993164
+      sparkenemy2_10: -5793522988133890223
+      sparkenemy2_11: -7094271259707695242
+      sparkenemy2_12: -8444615477696551535
+      sparkenemy2_13: -6457243525726030220
+      sparkenemy2_14: -5773581835045597363
+      sparkenemy2_2: -2515383974426316936
+      sparkenemy2_3: 7570203481073349304
+      sparkenemy2_4: -968851143037389021
+      sparkenemy2_5: -6873233774782675658
+      sparkenemy2_6: -6192191636507864081
+      sparkenemy2_7: 520735313620662363
+      sparkenemy2_8: -1739177839224269322
+      sparkenemy2_9: 6077404585756956928
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

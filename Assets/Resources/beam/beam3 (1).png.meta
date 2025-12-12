@@ -1,0 +1,300 @@
+fileFormatVersion: 2
+guid: 4c538fdec6f6191458c3db930eb4284b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6123186443637815741
+    second: beam3 (1)_0
+  - first:
+      213: -3759269099672540422
+    second: beam3 (1)_1
+  - first:
+      213: 6125426769735534159
+    second: beam3 (1)_2
+  - first:
+      213: 7946031761241329061
+    second: beam3 (1)_3
+  - first:
+      213: -6010872547873852514
+    second: beam3 (1)_4
+  - first:
+      213: -7765939140061160177
+    second: beam3 (1)_5
+  - first:
+      213: 2748238807481985717
+    second: beam3 (1)_6
+  - first:
+      213: 6627506596989095142
+    second: beam3 (1)_7
+  - first:
+      213: -8295298929114684633
+    second: beam3 (1)_8
+  - first:
+      213: 4052671146523300710
+    second: beam3 (1)_9
+  - first:
+      213: 8718785751625180397
+    second: beam3 (1)_10
+  - first:
+      213: -2994695096916211678
+    second: beam3 (1)_11
+  - first:
+      213: 8901836593321052293
+    second: beam3 (1)_12
+  - first:
+      213: 6851577631284497321
+    second: beam3 (1)_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 73
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: beam3 (1)_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1
+        width: 257
+        height: 446
+      alignment: 9
+      pivot: {x: 0.77859604, y: 0.51672244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d1a517f77d93490800000000000000
+      internalID: -7765939140061160177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam3 (1)_7
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 0
+        width: 229
+        height: 447
+      alignment: 9
+      pivot: {x: 0.76055, y: 0.5150165}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ecc71cc222a9fb50800000000000000
+      internalID: 6627506596989095142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam3 (1)_10
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 0
+        width: 253
+        height: 447
+      alignment: 9
+      pivot: {x: 0.7859485, y: 0.52002203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de42b5e62795ff870800000000000000
+      internalID: 8718785751625180397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beam3 (1)_13
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 0
+        width: 263
+        height: 447
+      alignment: 9
+      pivot: {x: 0.7920906, y: 0.5216906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab89bfed81b51f50800000000000000
+      internalID: 6851577631284497321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: efaacd810785f3d4e8a97a73a7bf12e2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      beam3 (1)_0: -6123186443637815741
+      beam3 (1)_1: -3759269099672540422
+      beam3 (1)_10: 8718785751625180397
+      beam3 (1)_11: -2994695096916211678
+      beam3 (1)_12: 8901836593321052293
+      beam3 (1)_13: 6851577631284497321
+      beam3 (1)_2: 6125426769735534159
+      beam3 (1)_3: 7946031761241329061
+      beam3 (1)_4: -6010872547873852514
+      beam3 (1)_5: -7765939140061160177
+      beam3 (1)_6: 2748238807481985717
+      beam3 (1)_7: 6627506596989095142
+      beam3 (1)_8: -8295298929114684633
+      beam3 (1)_9: 4052671146523300710
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3744 @@
+fileFormatVersion: 2
+guid: bbf7b19470fb0e64cb4c1c2a3ee492bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6139386241471822598
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_0
+  - first:
+      213: 1650842972048914570
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_1
+  - first:
+      213: -7739944209165201080
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_2
+  - first:
+      213: 4170392142721759312
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_3
+  - first:
+      213: 7393368673011745523
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_4
+  - first:
+      213: -2167341396573632827
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_5
+  - first:
+      213: -1044603629426237963
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_6
+  - first:
+      213: -3832032834355191721
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_7
+  - first:
+      213: -3929307166128340278
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_8
+  - first:
+      213: 6161435067113213172
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_9
+  - first:
+      213: -7506150727200625666
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_10
+  - first:
+      213: 9010119594191868045
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_11
+  - first:
+      213: 4392614476141256059
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_12
+  - first:
+      213: 7813487759591592373
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_13
+  - first:
+      213: -3577983298001919603
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_14
+  - first:
+      213: 7265215643483646917
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_15
+  - first:
+      213: -83976993880950323
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_16
+  - first:
+      213: -8016452053311755129
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_17
+  - first:
+      213: -3881864762707274495
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_18
+  - first:
+      213: -706768105635894493
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_19
+  - first:
+      213: -5247173824762772210
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_20
+  - first:
+      213: 8226945159834226011
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_21
+  - first:
+      213: -1502914438121322264
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_22
+  - first:
+      213: 2601171212498888090
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_23
+  - first:
+      213: 5944193526108566338
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_24
+  - first:
+      213: 3813673649973435243
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_25
+  - first:
+      213: 775543956071989495
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_26
+  - first:
+      213: 2748688621473655914
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_27
+  - first:
+      213: -2205581351380588358
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_28
+  - first:
+      213: -5607645073554388434
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_29
+  - first:
+      213: 7796336738509102452
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_30
+  - first:
+      213: 126437494017538656
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_31
+  - first:
+      213: 4293397923852355647
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_32
+  - first:
+      213: 7068541733745681344
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_33
+  - first:
+      213: -3420090032086910110
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_34
+  - first:
+      213: -1475486832837040957
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_35
+  - first:
+      213: -1571558820650858865
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_36
+  - first:
+      213: 4590704579435007704
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_37
+  - first:
+      213: -2013176275090701589
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_38
+  - first:
+      213: 5795335800218203467
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_39
+  - first:
+      213: 7934255976907759484
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_40
+  - first:
+      213: -5236327358996639866
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_41
+  - first:
+      213: 8049736791131209438
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_42
+  - first:
+      213: -3361685865711486685
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_43
+  - first:
+      213: -6221991383665219108
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_44
+  - first:
+      213: -928034764333826089
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_45
+  - first:
+      213: 753445753753845142
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_46
+  - first:
+      213: 1314525163893062839
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_47
+  - first:
+      213: 1234753419517417255
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_48
+  - first:
+      213: 898704036828504145
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_49
+  - first:
+      213: -3828391288413574882
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_50
+  - first:
+      213: -2051522596367159629
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_51
+  - first:
+      213: -2096863639488448287
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_52
+  - first:
+      213: 2516510579312329082
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_53
+  - first:
+      213: 4393177537257384265
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_54
+  - first:
+      213: 1880923176946208136
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_55
+  - first:
+      213: -8327045133887423729
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_56
+  - first:
+      213: -7477501895303609606
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_57
+  - first:
+      213: -8888175756761083457
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_58
+  - first:
+      213: -1951795012757563676
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_59
+  - first:
+      213: 8681054980336189060
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_60
+  - first:
+      213: 3695399393128613623
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_61
+  - first:
+      213: -3768893639478605099
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_62
+  - first:
+      213: -377244474472057372
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_63
+  - first:
+      213: -1966769134924765287
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_64
+  - first:
+      213: 2282521999968712823
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_65
+  - first:
+      213: 3303016417776500644
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_66
+  - first:
+      213: -4407100313756694694
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_67
+  - first:
+      213: 8519624324282292838
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_68
+  - first:
+      213: 4208634217710692299
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_69
+  - first:
+      213: 3473099662744285449
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_70
+  - first:
+      213: 3363307321453870254
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_71
+  - first:
+      213: 3411958175491102192
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_72
+  - first:
+      213: -3081284179708849038
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_73
+  - first:
+      213: 6480642496750312629
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_74
+  - first:
+      213: -7827623841965496796
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_75
+  - first:
+      213: -4635546637197653986
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_76
+  - first:
+      213: -6764623351305895874
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_77
+  - first:
+      213: -691897059429099739
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_78
+  - first:
+      213: -4047723710830377841
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_79
+  - first:
+      213: -4890391167113056955
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_80
+  - first:
+      213: 7568288363119583613
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_81
+  - first:
+      213: -6124751855093043389
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_82
+  - first:
+      213: -7157633029922120707
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_83
+  - first:
+      213: -8706937287385206433
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_84
+  - first:
+      213: 4072151031400977348
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_85
+  - first:
+      213: 6544618901906102354
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_86
+  - first:
+      213: 5341353899506232256
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_87
+  - first:
+      213: 1558584981075976478
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_88
+  - first:
+      213: -6586333923095530626
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_89
+  - first:
+      213: -9214596882162522534
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_90
+  - first:
+      213: 70925547840482231
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_91
+  - first:
+      213: 8536198731971158522
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_92
+  - first:
+      213: 706566540228597339
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_93
+  - first:
+      213: 9116937775409479209
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_94
+  - first:
+      213: -5885228364038162581
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_95
+  - first:
+      213: 5825482363168756629
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_96
+  - first:
+      213: -6009922058995223612
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_97
+  - first:
+      213: -2325301445579604417
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_98
+  - first:
+      213: 8328633552552117745
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_99
+  - first:
+      213: 3969892535812395268
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_100
+  - first:
+      213: 2273034116584741299
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_101
+  - first:
+      213: -6034793604333709385
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_102
+  - first:
+      213: 9062621346522479254
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_103
+  - first:
+      213: -4813968478162431181
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_104
+  - first:
+      213: 2889451608901924767
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_105
+  - first:
+      213: 8160328157971516293
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_106
+  - first:
+      213: -7278785222032756064
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_107
+  - first:
+      213: 8527971202500513346
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_108
+  - first:
+      213: -3167178220967370486
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_109
+  - first:
+      213: -2810587146874913433
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_110
+  - first:
+      213: 2171622544659065204
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_111
+  - first:
+      213: 8320809148877796046
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_112
+  - first:
+      213: -9100491529254564244
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_113
+  - first:
+      213: 2366467463871164752
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_114
+  - first:
+      213: -3535102469788695209
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_115
+  - first:
+      213: -7623373797745638168
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_116
+  - first:
+      213: -6013839178581510700
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_117
+  - first:
+      213: -1846778806542453022
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_118
+  - first:
+      213: -34610034066079660
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_119
+  - first:
+      213: 5506385635527162305
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_120
+  - first:
+      213: 894872463493536930
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_121
+  - first:
+      213: -6674694024557074097
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_122
+  - first:
+      213: 4326586210734806604
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_123
+  - first:
+      213: -5616117642200006091
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_124
+  - first:
+      213: -3994070132733048346
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_125
+  - first:
+      213: 8700020070613913623
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_126
+  - first:
+      213: -6368942512255149477
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_127
+  - first:
+      213: 5776647115486625450
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_128
+  - first:
+      213: -5256126183931405527
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_129
+  - first:
+      213: -1856810735812761267
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_130
+  - first:
+      213: -889237214824924552
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_131
+  - first:
+      213: -4509148013826701731
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_132
+  - first:
+      213: -2156084508875018748
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_133
+  - first:
+      213: -8028785086262624696
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_134
+  - first:
+      213: 488008825373403338
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_135
+  - first:
+      213: 5758191695611317524
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_136
+  - first:
+      213: 3254219137403361486
+    second: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_137
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 399
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4c622cdb48ccaa0800000000000000
+      internalID: -6139386241471822598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 399
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88fce0cfe8f8e610800000000000000
+      internalID: 1650842972048914570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 399
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841dd5fefb1369490800000000000000
+      internalID: -7739944209165201080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_3
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 399
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058b201ee8530e930800000000000000
+      internalID: 4170392142721759312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_4
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 399
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2cd58e2a58a9660800000000000000
+      internalID: 7393368673011745523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 399
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6ca3e9b7e0ce1e0800000000000000
+      internalID: -2167341396573632827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_6
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 402
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd17f89882d081f0800000000000000
+      internalID: -1044603629426237963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_7
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 382
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75020aca072e1dac0800000000000000
+      internalID: -3832032834355191721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_8
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 401
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2068563fb4879c0800000000000000
+      internalID: -3929307166128340278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_9
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 401
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc0be18c80d18550800000000000000
+      internalID: 6161435067113213172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_10
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 402
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbaaa2deabc4d790800000000000000
+      internalID: -7506150727200625666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_11
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 401
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80d79388006a0d70800000000000000
+      internalID: 9010119594191868045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 372
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d53adc793b5fc30800000000000000
+      internalID: 4392614476141256059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_13
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 372
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1d15f38b51f6c60800000000000000
+      internalID: 7813487759591592373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 363
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81a05eb523785ec0800000000000000
+      internalID: -3577983298001919603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_15
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 382
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb247e822b33d460800000000000000
+      internalID: 7265215643483646917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_16
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 382
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9bb667e57a5def0800000000000000
+      internalID: -83976993880950323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_17
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 363
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ce66b9457dfb090800000000000000
+      internalID: -8016452053311755129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_18
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 363
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1051ab8b098d02ac0800000000000000
+      internalID: -3881864762707274495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_19
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 353
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b2ffc072e0136f0800000000000000
+      internalID: -706768105635894493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_20
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 352
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e058944053b4e27b0800000000000000
+      internalID: -5247173824762772210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_21
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 363
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5dc98ed80bfb2270800000000000000
+      internalID: 8226945159834226011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_22
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 344
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e809f30843942be0800000000000000
+      internalID: -1502914438121322264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_23
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 363
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95e7f8af67391420800000000000000
+      internalID: 2601171212498888090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_24
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 344
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243b0efa4840e7250800000000000000
+      internalID: 5944193526108566338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_25
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 344
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b1feb9af3ece430800000000000000
+      internalID: 3813673649973435243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 338
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f04f597e1943ca00800000000000000
+      internalID: 775543956071989495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_27
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 338
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c6811fcbd452620800000000000000
+      internalID: 2748688621473655914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_28
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 344
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8ebb352733461e0800000000000000
+      internalID: -2205581351380588358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 296
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a42542484ad22b0800000000000000
+      internalID: -5607645073554388434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_30
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 344
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d9928f4f6223c60800000000000000
+      internalID: 7796336738509102452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_31
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 344
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ab43d1b3231c100800000000000000
+      internalID: 126437494017538656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_32
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 344
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f388e921aa6359b30800000000000000
+      internalID: 4293397923852355647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_33
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 344
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c36fef8141881260800000000000000
+      internalID: 7068541733745681344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_34
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 327
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26bfa997c366980d0800000000000000
+      internalID: -3420090032086910110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 308
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c46bf10b84068be0800000000000000
+      internalID: -1475486832837040957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_36
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 327
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86497f3493b03ae0800000000000000
+      internalID: -1571558820650858865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_37
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 309
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de8bfd0e7575bf30800000000000000
+      internalID: 4590704579435007704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_38
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 296
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be289f418d2cf04e0800000000000000
+      internalID: -2013176275090701589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_39
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 273
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b453c1e843b2d6050800000000000000
+      internalID: 5795335800218203467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_40
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 308
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f5b9406c32c1e60800000000000000
+      internalID: 7934255976907759484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_41
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 296
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f885f9204d457b0800000000000000
+      internalID: -5236327358996639866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_42
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 296
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edeb4c256f866bf60800000000000000
+      internalID: 8049736791131209438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_43
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 274
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329b0df1484e851d0800000000000000
+      internalID: -3361685865711486685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 254
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9e7155dcb07a9a0800000000000000
+      internalID: -6221991383665219108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_45
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 273
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df3bac7c45fe13f0800000000000000
+      internalID: -928034764333826089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_46
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 247
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d360ecbe6c47a00800000000000000
+      internalID: 753445753753845142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_47
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 247
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc78220ca12e3210800000000000000
+      internalID: 1314525163893062839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_48
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 247
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727d88b61b9b22110800000000000000
+      internalID: 1234753419517417255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_49
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 203
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1506f595f86d87c00800000000000000
+      internalID: 898704036828504145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_50
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 254
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19a8e82862dedac0800000000000000
+      internalID: -3828391288413574882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_51
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 254
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be29da61178783e0800000000000000
+      internalID: -2051522596367159629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_52
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 254
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8bbd921a176e2e0800000000000000
+      internalID: -2096863639488448287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_53
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 254
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a718c61f9017ce220800000000000000
+      internalID: 2516510579312329082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_54
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 247
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949a37fa1b3b7fc30800000000000000
+      internalID: 4393177537257384265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_55
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 247
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d8da3f9a16a1a10800000000000000
+      internalID: 1880923176946208136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_56
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 203
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bbefdb194607c80800000000000000
+      internalID: -8327045133887423729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_57
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 203
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af24e1bc4a39a3890800000000000000
+      internalID: -7477501895303609606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_58
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 212
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb15405ad3bd6a480800000000000000
+      internalID: -8888175756761083457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_59
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 195
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6d436e6c4d9e4e0800000000000000
+      internalID: -1951795012757563676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_60
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 212
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ef29aa28d497870800000000000000
+      internalID: 8681054980336189060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_61
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 195
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f600a24b22b84330800000000000000
+      internalID: 3695399393128613623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_62
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 212
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da06ae043332bbc0800000000000000
+      internalID: -3768893639478605099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_63
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 195
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e53d913622c3caf0800000000000000
+      internalID: -377244474472057372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_64
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 212
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9976b9564e1a4b4e0800000000000000
+      internalID: -1966769134924765287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_65
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 195
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77836286aa52daf10800000000000000
+      internalID: 2282521999968712823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_66
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 169
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aff9dc8eeba6dd20800000000000000
+      internalID: 3303016417776500644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_67
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 195
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57050d4d95d6d2c0800000000000000
+      internalID: -4407100313756694694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_68
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 195
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a9f9c1f29cb3670800000000000000
+      internalID: 8519624324282292838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_69
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 195
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc72330d582186a30800000000000000
+      internalID: 4208634217710692299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_70
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 199
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901f663fdbde23030800000000000000
+      internalID: 3473099662744285449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_71
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 195
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac7ab5703edcae20800000000000000
+      internalID: 3363307321453870254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_72
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 195
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f513ae12e5b95f20800000000000000
+      internalID: 3411958175491102192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_73
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 159
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2745c682d541d35d0800000000000000
+      internalID: -3081284179708849038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_74
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 158
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc5a1fc30edfe950800000000000000
+      internalID: 6480642496750312629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_75
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 158
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426a4489691be5390800000000000000
+      internalID: -7827623841965496796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_76
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 169
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18c316c4ea3bafb0800000000000000
+      internalID: -4635546637197653986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_77
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 158
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30891a07ea3f12a0800000000000000
+      internalID: -6764623351305895874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_78
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 169
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527579f4a43e566f0800000000000000
+      internalID: -691897059429099739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_79
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 158
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8487031bb893d7c0800000000000000
+      internalID: -4047723710830377841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_80
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 169
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54da487d427d12cb0800000000000000
+      internalID: -4890391167113056955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_81
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 169
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d712771fa26f70960800000000000000
+      internalID: 7568288363119583613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_82
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 169
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34fa3cb53a2800ba0800000000000000
+      internalID: -6124751855093043389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_83
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 146
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb93ea9eaafaac90800000000000000
+      internalID: -7157633029922120707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_84
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 169
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f513dcf1baeba2780800000000000000
+      internalID: -8706937287385206433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_85
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 142
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c35562b9cf238830800000000000000
+      internalID: 4072151031400977348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_86
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 158
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2589b66673823da50800000000000000
+      internalID: 6544618901906102354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_87
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 146
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb67b7621d402a40800000000000000
+      internalID: 5341353899506232256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_88
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 146
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11ea4558c431a510800000000000000
+      internalID: 1558584981075976478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_89
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 146
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7339cd5134a894a0800000000000000
+      internalID: -6586333923095530626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_90
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 146
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56e74ae4fc2f1080800000000000000
+      internalID: -9214596882162522534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_91
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 142
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb2884f86afbf000800000000000000
+      internalID: 70925547840482231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_92
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 107
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1e74f158ba67670800000000000000
+      internalID: 8536198731971158522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_93
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 142
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b569088568a3ec900800000000000000
+      internalID: 706566540228597339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_94
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 142
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e3f966a9ed58e70800000000000000
+      internalID: 9116937775409479209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_95
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 128
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67b373fbf7735ea0800000000000000
+      internalID: -5885228364038162581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_96
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 128
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5931af5385548d050800000000000000
+      internalID: 5825482363168756629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_97
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 128
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c33ec1bab7789ca0800000000000000
+      internalID: -6009922058995223612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_98
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 128
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e768cb7aedabfd0800000000000000
+      internalID: -2325301445579604417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_99
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 107
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5c44cc610459370800000000000000
+      internalID: 8328633552552117745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_100
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 56
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40192995a34e71730800000000000000
+      internalID: 3969892535812395268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_101
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 107
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b990696c707b8f10800000000000000
+      internalID: 2273034116584741299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_102
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 108
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7d3e8c03b104ca0800000000000000
+      internalID: -6034793604333709385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_103
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 107
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a385d4916e4cd70800000000000000
+      internalID: 9062621346522479254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_104
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 95
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3335333bc29513db0800000000000000
+      internalID: -4813968478162431181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_105
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 95
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97b748ede4691820800000000000000
+      internalID: 2889451608901924767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_106
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b8282793f4f3170800000000000000
+      internalID: 8160328157971516293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_107
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 96
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2ff5cb76f8cfa90800000000000000
+      internalID: -7278785222032756064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_108
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 95
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ecdc320a0795670800000000000000
+      internalID: 8527971202500513346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_109
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 102
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01e2ee303ceb04d0800000000000000
+      internalID: -3167178220967370486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_110
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 95
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76dfd3c81e9cef8d0800000000000000
+      internalID: -2810587146874913433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_111
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 101
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47922a8d237232e10800000000000000
+      internalID: 2171622544659065204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_112
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 95
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec27eaad5d3797370800000000000000
+      internalID: 8320809148877796046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_113
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 56
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e845dab2f84b180800000000000000
+      internalID: -9100491529254564244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_114
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 79
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0517f8cce9167d020800000000000000
+      internalID: 2366467463871164752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_115
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 95
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75583a3980bc0fec0800000000000000
+      internalID: -3535102469788695209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_116
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 95
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4c95bdbe5543690800000000000000
+      internalID: -7623373797745638168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_117
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 96
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d57258312d8a8ca0800000000000000
+      internalID: -6013839178581510700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_118
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 69
+        width: 40
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e63159c57cee56e0800000000000000
+      internalID: -1846778806542453022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_119
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 79
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450c3dd7b5a058ff0800000000000000
+      internalID: -34610034066079660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_120
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 79
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9f8e9bf8c9a6c40800000000000000
+      internalID: 5506385635527162305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_121
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 4
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac9fc9a3c93b6c00800000000000000
+      internalID: 894872463493536930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_122
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 28
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f496ad11629be53a0800000000000000
+      internalID: -6674694024557074097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_123
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 6
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4693f44c3f1b0c30800000000000000
+      internalID: 4326586210734806604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_124
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 30
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5324dd782ca8f02b0800000000000000
+      internalID: -5616117642200006091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_125
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 18
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9037230663298c0800000000000000
+      internalID: -3994070132733048346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_126
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 28
+        width: 37
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71016b7d82eacb870800000000000000
+      internalID: 8700020070613913623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_127
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 30
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ad52a7788fc97a0800000000000000
+      internalID: -6368942512255149477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_128
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 18
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae7d5f02f5ca2050800000000000000
+      internalID: 5776647115486625450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_129
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 28
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b9328751d7e07b0800000000000000
+      internalID: -5256126183931405527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_130
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 28
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49afbc39784b36e0800000000000000
+      internalID: -1856810735812761267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_131
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 28
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a7d49e67bc8a3f0800000000000000
+      internalID: -889237214824924552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_132
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 18
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56833c95c94c61c0800000000000000
+      internalID: -4509148013826701731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_133
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 6
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e28c6009c0412e0800000000000000
+      internalID: -2156084508875018748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_134
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 18
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ebc5b9086049090800000000000000
+      internalID: -8028785086262624696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_135
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 18
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac823abe071c5c600800000000000000
+      internalID: 488008825373403338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_136
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 16
+        width: 57
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d4485c6d439ef40800000000000000
+      internalID: 5758191695611317524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_137
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 6
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8943a501f492d20800000000000000
+      internalID: 3254219137403361486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_0: -6139386241471822598
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_1: 1650842972048914570
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_10: -7506150727200625666
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_100: 3969892535812395268
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_101: 2273034116584741299
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_102: -6034793604333709385
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_103: 9062621346522479254
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_104: -4813968478162431181
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_105: 2889451608901924767
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_106: 8160328157971516293
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_107: -7278785222032756064
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_108: 8527971202500513346
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_109: -3167178220967370486
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_11: 9010119594191868045
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_110: -2810587146874913433
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_111: 2171622544659065204
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_112: 8320809148877796046
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_113: -9100491529254564244
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_114: 2366467463871164752
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_115: -3535102469788695209
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_116: -7623373797745638168
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_117: -6013839178581510700
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_118: -1846778806542453022
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_119: -34610034066079660
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_12: 4392614476141256059
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_120: 5506385635527162305
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_121: 894872463493536930
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_122: -6674694024557074097
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_123: 4326586210734806604
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_124: -5616117642200006091
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_125: -3994070132733048346
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_126: 8700020070613913623
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_127: -6368942512255149477
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_128: 5776647115486625450
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_129: -5256126183931405527
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_13: 7813487759591592373
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_130: -1856810735812761267
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_131: -889237214824924552
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_132: -4509148013826701731
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_133: -2156084508875018748
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_134: -8028785086262624696
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_135: 488008825373403338
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_136: 5758191695611317524
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_137: 3254219137403361486
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_14: -3577983298001919603
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_15: 7265215643483646917
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_16: -83976993880950323
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_17: -8016452053311755129
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_18: -3881864762707274495
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_19: -706768105635894493
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_2: -7739944209165201080
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_20: -5247173824762772210
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_21: 8226945159834226011
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_22: -1502914438121322264
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_23: 2601171212498888090
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_24: 5944193526108566338
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_25: 3813673649973435243
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_26: 775543956071989495
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_27: 2748688621473655914
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_28: -2205581351380588358
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_29: -5607645073554388434
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_3: 4170392142721759312
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_30: 7796336738509102452
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_31: 126437494017538656
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_32: 4293397923852355647
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_33: 7068541733745681344
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_34: -3420090032086910110
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_35: -1475486832837040957
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_36: -1571558820650858865
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_37: 4590704579435007704
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_38: -2013176275090701589
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_39: 5795335800218203467
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_4: 7393368673011745523
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_40: 7934255976907759484
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_41: -5236327358996639866
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_42: 8049736791131209438
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_43: -3361685865711486685
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_44: -6221991383665219108
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_45: -928034764333826089
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_46: 753445753753845142
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_47: 1314525163893062839
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_48: 1234753419517417255
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_49: 898704036828504145
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_5: -2167341396573632827
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_50: -3828391288413574882
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_51: -2051522596367159629
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_52: -2096863639488448287
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_53: 2516510579312329082
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_54: 4393177537257384265
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_55: 1880923176946208136
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_56: -8327045133887423729
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_57: -7477501895303609606
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_58: -8888175756761083457
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_59: -1951795012757563676
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_6: -1044603629426237963
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_60: 8681054980336189060
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_61: 3695399393128613623
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_62: -3768893639478605099
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_63: -377244474472057372
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_64: -1966769134924765287
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_65: 2282521999968712823
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_66: 3303016417776500644
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_67: -4407100313756694694
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_68: 8519624324282292838
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_69: 4208634217710692299
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_7: -3832032834355191721
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_70: 3473099662744285449
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_71: 3363307321453870254
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_72: 3411958175491102192
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_73: -3081284179708849038
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_74: 6480642496750312629
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_75: -7827623841965496796
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_76: -4635546637197653986
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_77: -6764623351305895874
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_78: -691897059429099739
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_79: -4047723710830377841
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_8: -3929307166128340278
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_80: -4890391167113056955
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_81: 7568288363119583613
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_82: -6124751855093043389
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_83: -7157633029922120707
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_84: -8706937287385206433
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_85: 4072151031400977348
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_86: 6544618901906102354
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_87: 5341353899506232256
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_88: 1558584981075976478
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_89: -6586333923095530626
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_9: 6161435067113213172
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_90: -9214596882162522534
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_91: 70925547840482231
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_92: 8536198731971158522
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_93: 706566540228597339
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_94: 9116937775409479209
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_95: -5885228364038162581
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_96: 5825482363168756629
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_97: -6009922058995223612
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_98: -2325301445579604417
+      DS _ DSi - Kirby Squeak Squad - Miscellaneous - Effects (1)_99: 8328633552552117745
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
