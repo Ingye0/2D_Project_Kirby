@@ -64,7 +64,7 @@ public abstract class EnemyBase : MonoBehaviour, IInhalable
         }
     }
 
-    // ★ 카메라 범위 체크 메서드
+    // 카메라 범위 체크 메서드
     private void CheckCameraView()
     {
         Vector3 viewportPosition = mainCamera.WorldToViewportPoint(transform.position);
@@ -129,11 +129,6 @@ public abstract class EnemyBase : MonoBehaviour, IInhalable
 
         StartCoroutine(HitFreeze_co(knockbackDirection, health <= 0));
 
-        //if (health <= 0)
-        //{
-        //    Die();
-        //}
-
         if (health > 0)
         {
             // 생존 시에만 피격 애니메이션 (넉백이 시작되기 전에 발생합니다)
@@ -143,7 +138,7 @@ public abstract class EnemyBase : MonoBehaviour, IInhalable
 
     protected IEnumerator HitFreeze_co(Vector2 knockbackDirection, bool shouldDie)
     {
-        // 1. 적의 움직임을 잠시 멈춥니다.
+        // 적의 움직임을 잠시 멈춥니다.
         if (_rb)
         {
             _rb.linearVelocity = Vector2.zero;
@@ -151,10 +146,10 @@ public abstract class EnemyBase : MonoBehaviour, IInhalable
             _rb.gravityScale = 0f; // 중력도 잠시 제거하여 위치 고정을 확실히 합니다.
         }
 
-        // 2. 멈춤 시간만큼 대기합니다. (Time.timeScale을 변경하지 않았으므로 WaitForSeconds 사용)
+        // 멈춤 시간만큼 대기합니다.
         yield return new WaitForSeconds(hitStopDuration);
 
-        // 3. 넉백 코루틴을 시작합니다.
+        // 넉백 코루틴을 시작합니다.
         StartCoroutine(Knockback_co(knockbackDirection, shouldDie));
     }
 
@@ -207,7 +202,7 @@ public abstract class EnemyBase : MonoBehaviour, IInhalable
         // 콜라이더 비활성화
         if (_collider) _collider.enabled = false;
 
-        // ⭐️ 넉백으로 얻은 속도와 물리 동작을 최종 정지 ⭐️
+        // 넉백으로 얻은 속도와 물리 동작을 최종 정지
         if (_rb)
         {
             _rb.linearVelocity = Vector2.zero;
@@ -247,7 +242,7 @@ public abstract class EnemyBase : MonoBehaviour, IInhalable
 
     public void TriggerDeathExplosion()
     {
-        // 1. 폭발 이펙트 생성
+        // 폭발 이펙트 생성
         if (ExplodePrefab != null)
         {
             Instantiate(ExplodePrefab, transform.position, Quaternion.identity);
@@ -257,11 +252,11 @@ public abstract class EnemyBase : MonoBehaviour, IInhalable
             Debug.LogError($"[EnemyBase] {gameObject.name}의 ExplodePrefab이 할당되지 않았습니다. 인스펙터에 연결해야 합니다.");
         }
 
-        // 2. 오브젝트 파괴
+        // 오브젝트 파괴
         Destroy(gameObject);
     }
 
-    // --- IInhalable 구현 (기본 동작) ---
+    // IInhalable 구현
 
     public virtual void OnInhaleStart()
     {

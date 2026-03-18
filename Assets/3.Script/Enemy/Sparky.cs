@@ -117,9 +117,7 @@ public class Sparky : EnemyBase
         }
     }
 
-    /// <summary>
-    /// 커비 방향으로 스프라이트 회전 (수정: 반대 방향 문제 해결)
-    /// </summary>
+    // 커비 방향으로 스프라이트 회전
     private void FaceKirby()
     {
         if (kirbyTransform == null) return;
@@ -129,9 +127,7 @@ public class Sparky : EnemyBase
         transform.localScale = new Vector3(originalXScale * directionToKirby * -1, transform.localScale.y, transform.localScale.z);
     }
 
-    /// <summary>
-    /// 땅에 닿아있는지 체크
-    /// </summary>
+    // 땅에 닿아있는지 체크
     private bool IsGrounded()
     {
         if (_collider == null) return false;
@@ -153,9 +149,7 @@ public class Sparky : EnemyBase
         return (hitLeft.collider != null || hitCenter.collider != null || hitRight.collider != null);
     }
 
-    /// <summary>
-    /// 커비가 감지 범위 내에 있는지 체크
-    /// </summary>
+    // 커비가 감지 범위 내에 있는지 체크
     private bool IsKirbyInRange()
     {
         if (kirbyTransform == null) return false;
@@ -164,9 +158,7 @@ public class Sparky : EnemyBase
         return distance <= detectionRadius;
     }
 
-    /// <summary>
-    /// 행동 루프
-    /// </summary>
+    // 행동 루프
     private IEnumerator BehaviorLoop_co()
     {
         yield return new WaitForSeconds(1f);
@@ -208,9 +200,7 @@ public class Sparky : EnemyBase
         }
     }
 
-    /// <summary>
-    /// 점프 코루틴
-    /// </summary>
+    // 점프 코루틴
     private IEnumerator Jump_co(float jumpForce, bool moveForward)
     {
         if (!IsGrounded())
@@ -223,7 +213,7 @@ public class Sparky : EnemyBase
         // 커비 방향으로 향하기
         FaceKirby();
 
-        // ★ 점프 시작 애니메이션
+        // 점프 시작 애니메이션
         if (_anim) _anim.SetBool("IsJumpingUp", true);
 
         // 점프 힘 적용
@@ -241,28 +231,24 @@ public class Sparky : EnemyBase
         // 땅에 닿을 때까지 대기 (FixedUpdate에서 애니메이션 전환 처리)
         yield return new WaitUntil(() => IsGrounded());
 
-        // ★ 착지 시 점프 애니메이션 해제
+        // 착지 시 점프 애니메이션 해제
         if (_anim) _anim.SetBool("IsJumpingUp", false);
         if (_anim) _anim.SetBool("IsJumpingDown", false);
 
         isPerformingAbility = false;
     }
 
-    /// <summary>
-    /// 스파크 공격 코루틴
-    /// </summary>
+    // 스파크 공격 코루틴
     private IEnumerator SparkAttack_co()
     {
         isPerformingAbility = true;
         isAttacking = true;
 
-        // ★ 공격 애니메이션 시작 (준비 동작 포함)
+        // 공격 애니메이션 시작
         if (_anim) _anim.SetTrigger("SparkAttack");
 
-        // ★ 준비 시간 대기 (애니메이션 재생 중)
+        // 준비 시간 대기
         yield return new WaitForSeconds(sparkWindupTime);
-
-        // ★ 이 시점에서 실제 공격 시작 (스파크 발동)
 
         // 스파크 루프 효과음 시작
         if (enemyAudioSource != null && sparkAttackClip != null)
@@ -290,9 +276,6 @@ public class Sparky : EnemyBase
                 }
             }
 
-            // 디버그용 원 그리기
-            DrawCircle(transform.position, sparkRadius, Color.yellow, hitInterval);
-
             yield return new WaitForSeconds(hitInterval);
         }
 
@@ -307,39 +290,5 @@ public class Sparky : EnemyBase
 
         yield return new WaitForSeconds(0.2f);
         isPerformingAbility = false;
-    }
-
-    /// <summary>
-    /// 디버그용 원 그리기
-    /// </summary>
-    private void DrawCircle(Vector3 center, float radius, Color color, float duration)
-    {
-        int segments = 36;
-        float angleStep = 360f / segments;
-
-        for (int i = 0; i < segments; i++)
-        {
-            float angle1 = i * angleStep * Mathf.Deg2Rad;
-            float angle2 = (i + 1) * angleStep * Mathf.Deg2Rad;
-
-            Vector3 point1 = center + new Vector3(Mathf.Cos(angle1) * radius, Mathf.Sin(angle1) * radius, 0);
-            Vector3 point2 = center + new Vector3(Mathf.Cos(angle2) * radius, Mathf.Sin(angle2) * radius, 0);
-
-            Debug.DrawLine(point1, point2, color, duration);
-        }
-    }
-
-    /// <summary>
-    /// 디버그용 감지 범위 그리기
-    /// </summary>
-    private void OnDrawGizmosSelected()
-    {
-        // 스파크 공격 범위
-        Gizmos.color = Color.yellow;
-        Gizmos.DrawWireSphere(transform.position, sparkRadius);
-
-        // 커비 감지 범위
-        Gizmos.color = Color.cyan;
-        Gizmos.DrawWireSphere(transform.position, detectionRadius);
     }
 }

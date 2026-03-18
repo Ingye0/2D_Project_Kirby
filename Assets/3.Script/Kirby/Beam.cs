@@ -35,9 +35,7 @@ public class Beam : MonoBehaviour
         HandleAbilityInput();
     }
 
-    /// <summary>
-    /// Z 키 입력을 감지하고 공격을 시작합니다.
-    /// </summary>
+    // Z 키 입력을 감지하고 공격을 시작합니다.
     private void HandleAbilityInput()
     {
         // 공격 중이거나, 다른 주요 동작 중에는 입력 무시
@@ -52,16 +50,14 @@ public class Beam : MonoBehaviour
             StartCoroutine(BeamSweepAttack_co());
         }
 
-        // ★ C 키를 누르는 순간: 능력 해제
+        // C 키를 누르는 순간: 능력 해제
         if (Input.GetKeyDown(KeyCode.C))
         {
             ReleaseAbility();
         }
     }
 
-    /// <summary>
-    /// 빔 공격 시퀀스를 관리하는 코루틴
-    /// </summary>
+    // 빔 공격 시퀀스를 관리하는 코루틴
     private IEnumerator BeamSweepAttack_co()
     {
         IsAttacking = true;
@@ -126,7 +122,7 @@ public class Beam : MonoBehaviour
         IsAttacking = false;
     }
 
-    // 이 능력이 비활성화될 때 호출되어야 합니다. (예: 다른 능력을 얻거나 피해를 입었을 때)
+    // 이 능력이 비활성화될 때 호출되어야 합니다.
     public void DeactivateAbility()
     {
         // 진행 중인 모든 공격 코루틴을 중지

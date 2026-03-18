@@ -114,9 +114,6 @@ public class WaddleDoo : EnemyBase
         // Raycast를 쏘아 WallLayer와 충돌하는지 확인
         RaycastHit2D hit = Physics2D.Raycast(rayOrigin, Vector2.right * currentDirection, wallCheckDistance + rayXOffset, WallLayer);
 
-        // 디버그 레이 그리기
-        Debug.DrawRay(rayOrigin, Vector2.right * currentDirection * (wallCheckDistance + rayXOffset), hit.collider != null ? Color.red : Color.blue);
-
         return hit.collider != null;
     }
     private bool IsGrounded()
@@ -126,9 +123,6 @@ public class WaddleDoo : EnemyBase
 
         // Raycast를 쏘아 groundLayer 마스크를 가진 콜라이더와 충돌하는지 확인
         RaycastHit2D hit = Physics2D.Raycast(rayOrigin, Vector2.down, groundCheckDistance, groundLayer);
-
-        // 디버그 용으로 Raycast 그리기
-        Debug.DrawRay(rayOrigin, Vector2.down * groundCheckDistance, hit.collider != null ? Color.green : Color.yellow);
 
         return hit.collider != null;
     }
@@ -164,7 +158,7 @@ public class WaddleDoo : EnemyBase
     //점프 동작 코루틴
     private IEnumerator Jump_co()
     {
-        // 0. 땅에 닿아 있지 않으면 점프하지 않고 코루틴을 종료합니다.
+        // 땅에 닿아 있지 않으면 점프하지 않고 코루틴을 종료합니다.
         if (!IsGrounded())
         {
             yield break;
@@ -173,16 +167,16 @@ public class WaddleDoo : EnemyBase
         isPerformingAbility = true;
         if (_anim) _anim.SetBool("IsJumping", true);
 
-        // 1. 점프 힘 적용
+        // 점프 힘 적용
         _rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
 
-        // 2. 땅에서 떨어질 때까지 잠깐 대기 (프레임 스킵 방지 및 IsGrounded()가 false가 될 때까지)
+        // 땅에서 떨어질 때까지 잠깐 대기 (프레임 스킵 방지 및 IsGrounded()가 false가 될 때까지)
         yield return new WaitForSeconds(0.1f);
 
-        // 3. 땅에 다시 닿을 때까지 대기
+        // 땅에 다시 닿을 때까지 대기
         yield return new WaitUntil(() => IsGrounded());
 
-        // 4. 착지 후 마무리
+        // 착지 후 마무리
         if (_anim) _anim.SetBool("IsJumping", false);
         isPerformingAbility = false;
     }
@@ -208,7 +202,7 @@ public class WaddleDoo : EnemyBase
             enemyAudioSource.Play();
         }
 
-        // 2. 빔 스윕 공격 시작
+        // 빔 스윕 공격 시작
         float startAngle = 60f;         // 위쪽 60도
         float endAngle = -60f;         // 아래쪽 -60도
 
@@ -254,7 +248,7 @@ public class WaddleDoo : EnemyBase
             yield return new WaitForSeconds(rayInterval);
         }
 
-        // 3. 공격 종료
+        // 공격 종료
         isAttacking = false;
         if (_anim) _anim.SetBool("IsAttacking", false);
 

@@ -301,10 +301,10 @@ public class Kirby_Controller : MonoBehaviour
             return;
         }
 
-        // 1. Z키 입력과 Floating 상태 확인
+        // 1Z키 입력과 Floating 상태 확인
         if (isFloating && Input.GetKeyDown(KeyCode.Z))
         {
-            // 2. 상태 전환 및 애니메이션 트리거
+            // 상태 전환 및 애니메이션 트리거
             isFloating = false;
             animator.SetTrigger("Burping");
 
@@ -315,14 +315,12 @@ public class Kirby_Controller : MonoBehaviour
                 AudioManager.Instance.PlayBurpSFX();
             }
 
-            // 3. 딜레이 코루틴 시작
+            // 딜레이 코루틴 시작
             StartCoroutine(BurpNOTTackle_co(0.2f));
 
             // Burping이 시작되었으므로 여기서 함수 종료
             return;
         }
-
-        // Burping 상태는 오직 코루틴이 끝났을 때만 해제됩니다.
     }
 
     private void CheckRunEnd()
@@ -396,10 +394,7 @@ public class Kirby_Controller : MonoBehaviour
     }
     private void Die()
     {
-        // 사망 로직 (애니메이션, 게임 오버 등)
         Debug.Log("Kirby is Defeated! Game Over.");
-        // 예시: 게임 오브젝트 비활성화
-        // gameObject.SetActive(false); 
     }
 
     private IEnumerator Invincibility_co(float duration)
@@ -446,7 +441,6 @@ public class Kirby_Controller : MonoBehaviour
     private IEnumerator HitAndKnockback_co(Vector3 attackerPosition)
     {
         isKnockedBack = true; // 넉백 시작 시
-        // 피격 방향 결정 및 방향 전환 (적을 바라보며 뒤로 밀려남)
         // 적의 위치와 커비의 위치 차이를 계산
         float directionToAttacker = Mathf.Sign(attackerPosition.x - transform.position.x);
 
@@ -457,11 +451,7 @@ public class Kirby_Controller : MonoBehaviour
         transform.localScale = new Vector3(directionToAttacker, 1, 1);
 
         // 넉백 적용
-        // 넉백 방향은 적의 반대 방향 (수평)
         float knockbackDirectionX = -directionToAttacker;
-
-        // 수평 넉백 벡터 (Y축은 현재 속도 유지, 혹은 0으로 만들고 중력에 맡김)
-        // 현재 코드에서는 Y축 속도를 0으로 만들지 않고 중력에 의해 떨어지도록
 
         // 현재 수직 속도를 보존 (낙하 중이었다면 그대로)
         float currentVY = Kirby_R.linearVelocity.y;
@@ -469,16 +459,11 @@ public class Kirby_Controller : MonoBehaviour
         // 속도 초기화
         Kirby_R.linearVelocity = new Vector2(0f, currentVY);
 
-        // Impulse 적용 (수평 방향으로만)
+        // Impulse 적용
         Vector2 knockbackVector = new Vector2(knockbackDirectionX, 0f).normalized;
         Kirby_R.AddForce(knockbackVector * knockbackForce, ForceMode2D.Impulse);
 
-        // 넉백 중에는 움직임 및 능력 입력을 제한해야 합니다. 
-        // (Movement 함수와 능력 입력 로직에서 isInvincible 또는 isHit/isKnockedBack 플래그를 확인해야 하지만, 
-        // 여기서는 isInvincible 상태만 유지하므로 다른 입력은 isInvincible이 끝날 때까지 제한됩니다.)
-
-        // 넉백 애니메이션이 끝날 때까지 대기하거나, 넉백 효과가 사라질 때까지 대기합니다.
-        yield return new WaitForSeconds(0.7f); // 넉백 지속 시간 (임시 값)
+        yield return new WaitForSeconds(0.7f); // 넉백 지속 시간
 
         fixedHitDirection = 0f; //넉백 및 고정 해제
         isKnockedBack = false; // 넉백 끝난 후
@@ -521,12 +506,12 @@ public class Kirby_Controller : MonoBehaviour
 
         bool shouldBeFloatingJumping = isFloating && isFloatingKeyHeld;
 
-        // 1. Floating 상태 지속 상승 로직
+        // Floating 상태 지속 상승 로직
         if (shouldBeFloatingJumping)
         {
             Kirby_R.linearVelocity = new Vector2(Kirby_R.linearVelocity.x, floatRiseSpeed);
 
-            // ★ 키를 누르고 있는 동안 주기적으로 효과음 재생
+            // 키를 누르고 있는 동안 주기적으로 효과음 재생
             if (Time.time >= lastFloatSoundTime + floatSoundInterval)
             {
                 if (AudioManager.Instance != null)
@@ -546,10 +531,6 @@ public class Kirby_Controller : MonoBehaviour
                 {
                     Kirby_R.linearVelocity = new Vector2(Kirby_R.linearVelocity.x, floatRiseSpeed);
                     lastFloatJumpTime = Time.time;
-
-                    // ★ 효과음 제거 (위의 꾹 누르는 로직에서 재생됨)
-                    // 대신 타이머만 초기화
-                    lastFloatSoundTime = Time.time;
                 }
             }
             else if (isGrounded)
@@ -592,7 +573,7 @@ public class Kirby_Controller : MonoBehaviour
 
                     lastFloatJumpTime = Time.time;
 
-                    // ★ 풍선 진입 효과음 (처음 진입할 때만)
+                    // 풍선 진입 효과음 (처음 진입할 때만)
                     if (AudioManager.Instance != null)
                     {
                         AudioManager.Instance.PlayFloatSFX();
@@ -820,7 +801,7 @@ public class Kirby_Controller : MonoBehaviour
 
         wasSkidding = isSkidding;
 
-        // 3. 속도 적용: Target과 Acceleration Rate 결정 
+        // 속도 적용: Target과 Acceleration Rate 결정 
         float targetSpeedX = 0f;
         float finalAccelerationRate = 0f;
 
@@ -848,7 +829,7 @@ public class Kirby_Controller : MonoBehaviour
         );
 
 
-        // 4. 수직 속도 (낙하 속도/풍선 상태 속도) 제어
+        // 수직 속도 (낙하 속도/풍선 상태 속도) 제어
         float newVelocityY = Kirby_R.linearVelocity.y;
 
         if (isFloating)
@@ -874,10 +855,9 @@ public class Kirby_Controller : MonoBehaviour
             // 경사면의 각도가 너무 가파르지 않은지 확인 (약 45도 이하)
             if (slopeNormal.y > 0.707f)
             {
-                // A. 경사면(기울어진 땅)일 경우
+                // 경사면(기울어진 땅)일 경우
                 if (!Mathf.Approximately(slopeNormal.y, 1.0f))
                 {
-                    // ... (기존 경사면 이동 로직 유지) ...
                     Vector2 slopeDirection = Vector2.Perpendicular(slopeNormal).normalized;
                     if (Mathf.Sign(slopeDirection.x) != Mathf.Sign(newVelocityX))
                     {
@@ -905,7 +885,7 @@ public class Kirby_Controller : MonoBehaviour
             isWalking = false;
         }
 
-        // 5. 캐릭터 방향 전환 
+        // 캐릭터 방향 전환 
         float directionToFace = 0f;
 
         if (fixedTackleDirection != 0f) // fixedTackleDirection이 설정되어 있으면
@@ -977,7 +957,7 @@ public class Kirby_Controller : MonoBehaviour
 
             if (enemy != null)
             {
-                // 1. 적에게 대미지 적용
+                // 적에게 대미지 적용
                 Debug.Log($"적 충돌! {hit.collider.name}에게 {tackleDamage} 대미지 적용.");
                 enemy.TakeDamage(tackleDamage);
 
@@ -999,8 +979,6 @@ public class Kirby_Controller : MonoBehaviour
         fixedTackleDirection = transform.localScale.x;
         isHitStop = true;
 
-        // Movement 함수가 속도를 0으로 강제하는 동안 기다립니다.
-        // 멈춤 시간은 0.05초~0.1초 사이로 조정하며 테스트해 보세요.
         yield return new WaitForSeconds(hitStopDuration);
 
         isHitStop = false; // 멈춤 해제
@@ -1030,19 +1008,17 @@ public class Kirby_Controller : MonoBehaviour
 
     public void ChangeToBeamAbility()
     {
-        // 1. Normal 제거
+        // Normal 제거
         Normal normal = GetComponent<Normal>();
         if (normal != null)
             Destroy(normal);
 
-        // 2. Beam 추가
+        // Beam 추가
         if (GetComponent<Beam>() == null)
             gameObject.AddComponent<Beam>();
 
-        // 3. 애니메이터 교체
+        // 애니메이터 교체
         Animator anim = GetComponent<Animator>();
         anim.runtimeAnimatorController = beamAnim;
-
-        // 4. 스프라이트 변경 필요하면 여기서
     }
 }

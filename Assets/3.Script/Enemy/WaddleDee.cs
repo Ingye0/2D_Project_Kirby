@@ -13,7 +13,6 @@ public class WaddleDee : EnemyBase
     private int currentDirection = -1;
     private float originalXScale;
 
-    // Start 대신 Awake나 Start를 override
     protected void Start()
     {
         originalXScale = Mathf.Abs(transform.localScale.x);
@@ -29,10 +28,10 @@ public class WaddleDee : EnemyBase
         // 카메라 범위 밖이면 움직이지 않음
         if (!isInCameraView) return;
 
-        // 1. 이동
+        // 이동
         _rb.linearVelocity = new Vector2(currentDirection * moveSpeed, _rb.linearVelocity.y);
 
-        // 2. 벽 감지
+        // 벽 감지
         if (IsWallAhead())
         {
             ChangeDirection();
@@ -55,9 +54,6 @@ public class WaddleDee : EnemyBase
 
         // Raycast를 쏘아 WallLayer와 충돌하는지 확인
         RaycastHit2D hit = Physics2D.Raycast(rayOrigin, Vector2.right * currentDirection, wallCheckDistance + rayXOffset, WallLayer);
-
-        // 디버그 레이 그리기
-        Debug.DrawRay(rayOrigin, Vector2.right * currentDirection * (wallCheckDistance + rayXOffset), hit.collider != null ? Color.red : Color.blue);
 
         return hit.collider != null;
     }

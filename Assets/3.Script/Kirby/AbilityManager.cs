@@ -40,9 +40,7 @@ public class AbilityManager : MonoBehaviour
         Debug.Log("AbilityManager 초기화 완료");
     }
 
-    /// <summary>
-    /// 능력을 복사합니다. Normal.SwallowEnemy()에서 호출됩니다.
-    /// </summary>
+    // 능력을 복사합니다. Normal.SwallowEnemy()에서 호출됩니다.
     public void CopyAbility(AbilityType type)
     {
         Debug.Log($"CopyAbility 호출됨: {type}");
@@ -64,39 +62,37 @@ public class AbilityManager : MonoBehaviour
         }
     }
 
-    /// <summary>
-    /// Normal 능력으로 돌아갑니다. (피격 시 또는 능력 상실 시 호출)
-    /// </summary>
+    // Normal 능력으로 돌아갑니다. (피격 시 또는 능력 상실 시 호출)
     public void ResetToNormal()
     {
-        // 1. 모든 능력 스크립트 비활성화 또는 제거
+        // 모든 능력 스크립트 비활성화 또는 제거
         if (beamAbility != null)
             beamAbility.enabled = false;
 
-        // ★ Spark는 동적으로 추가되므로 제거
+        // Spark는 동적으로 추가되므로 제거
         Spark spark = GetComponent<Spark>();
         if (spark != null)
         {
             spark.DeactivateAbility(); // 정리 후 Destroy
         }
 
-        // ★ Kirby_Controller의 spark 참조 null로 설정
+        // Kirby_Controller의 spark 참조 null로 설정
         if (controller != null)
         {
             controller.spark = null;
         }
 
-        // 2. Normal 활성화
+        // Normal 활성화
         if (normalAbility != null)
             normalAbility.enabled = true;
 
-        // ★ Kirby_Controller의 normal 참조 업데이트
+        // Kirby_Controller의 normal 참조 업데이트
         if (controller != null)
         {
             controller.normal = normalAbility;
         }
 
-        // 3. 애니메이터 전환
+        // 애니메이터 전환
         if (anim != null && normalAnimator != null)
         {
             anim.runtimeAnimatorController = normalAnimator;
@@ -109,9 +105,7 @@ public class AbilityManager : MonoBehaviour
         Debug.Log("Normal 능력으로 전환됨");
     }
 
-    /// <summary>
-    /// Beam 능력으로 전환합니다.
-    /// </summary>
+    // Beam 능력으로 전환합니다.
     private void SwitchToBeam()
     {
         // Normal 비활성화
@@ -125,7 +119,7 @@ public class AbilityManager : MonoBehaviour
             spark.DeactivateAbility();
         }
 
-        // ★ Kirby_Controller의 spark 참조 null로 설정
+        // Kirby_Controller의 spark 참조 null로 설정
         if (controller != null)
         {
             controller.spark = null;
@@ -143,7 +137,7 @@ public class AbilityManager : MonoBehaviour
             return;
         }
 
-        // ★ Kirby_Controller의 beam 참조 업데이트
+        // Kirby_Controller의 beam 참조 업데이트
         if (controller != null)
         {
             controller.beam = beamAbility;
@@ -208,14 +202,5 @@ public class AbilityManager : MonoBehaviour
             return AbilityType.Spark;
 
         return AbilityType.Normal;
-    }
-
-    /// <summary>
-    /// 디버그용: 현재 능력 상태를 콘솔에 출력합니다.
-    /// </summary>
-    public void PrintCurrentAbility()
-    {
-        AbilityType current = GetCurrentAbility();
-        Debug.Log($"현재 능력: {current}");
     }
 }

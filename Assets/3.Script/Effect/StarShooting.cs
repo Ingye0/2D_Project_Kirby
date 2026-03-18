@@ -8,7 +8,7 @@ public class StarShooting : MonoBehaviour
     [Header("설정")]
     [SerializeField] private float speed = 20f; // 스타의 비행 속도
     [SerializeField] private int damage = 2; // 스타가 적에게 주는 대미지
-    [SerializeField] private float lifetime = 1.0f; // 스타의 최대 생존 시간 (초)
+    [SerializeField] private float lifetime = 1.0f; // 스타의 최대 생존 시간
 
     [Header("Layer 설정")]
     [SerializeField] private LayerMask collisionLayers; // 충돌 시 사라질 Layer (적, 벽, 땅 포함)
@@ -55,14 +55,14 @@ public class StarShooting : MonoBehaviour
         {
             isHit = true;
 
-            // 1. 적 충돌 처리
+            // 적 충돌 처리
             IInhalable enemy = other.GetComponent<IInhalable>();
             if (enemy != null)
             {
                 enemy.TakeDamage(damage);
             }
 
-            // 2. 파괴 애니메이션 실행 및 오브젝트 제거
+            // 파괴 애니메이션 실행 및 오브젝트 제거
             StartDestruction();
         }
     }
@@ -105,7 +105,6 @@ public class StarShooting : MonoBehaviour
     }
 
     // 애니메이션 이벤트에서 호출될 파괴 함수
-    // (Star 파괴 애니메이션의 마지막 프레임에 이벤트로 추가해야 합니다.)
     public void DestroyProjectile()
     {
         Destroy(gameObject);

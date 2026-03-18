@@ -63,7 +63,7 @@ public class Normal : MonoBehaviour
         HandleAbilityInput();
     }
 
-    // --- 입력 처리 (Update) ---
+    // 입력 처리
 
     public void HandleAbilityInput()
     {
@@ -126,7 +126,7 @@ public class Normal : MonoBehaviour
         }
 
 
-        // 2. Z 키 누르고 있는 중 (Inhale 지속)
+        // Z 키 누르고 있는 중 (Inhale 지속)
         if (Input.GetKey(KeyCode.Z))
         {
             isInputHeld = true;
@@ -136,7 +136,7 @@ public class Normal : MonoBehaviour
             }
         }
 
-        // 3. Z 키 떼는 순간 (Inhale 취소 또는 Spit)
+        // Z 키 떼는 순간 (Inhale 취소 또는 Spit)
         if (Input.GetKeyUp(KeyCode.Z))
         {
             isInputHeld = false;
@@ -147,9 +147,9 @@ public class Normal : MonoBehaviour
         }
     }
 
-    // --- 능력 발동 로직 ---
+    // 능력 발동 로직
 
-    // 1. 빨아들이기 선딜레이 시작 (PreInhale)
+    // 빨아들이기 선딜레이 시작 (PreInhale)
     public void PreInhale()
     {
         // 점프 입력을 즉시 멈춰 최대 점프 높이에 도달하는 것을 방지
@@ -165,7 +165,7 @@ public class Normal : MonoBehaviour
         StartCoroutine(InhalePreDelay_co(inhalePreDelay));
     }
 
-    // 1-1. Inhale 선딜레이 코루틴
+    // Inhale 선딜레이 코루틴
     private IEnumerator InhalePreDelay_co(float duration)
     {
         IsPreInhaling = true;
@@ -193,10 +193,10 @@ public class Normal : MonoBehaviour
         }
     }
 
-    // 2. 물리 로직 (FixedUpdate에서 실행)
+    // 물리 로직 (FixedUpdate에서 실행)
     private void HandleInhalePhysics()
     {
-        // 1. 적 감지 및 끌어당기기
+        // 적 감지 및 끌어당기기
         if (currentInhaledEnemy == null)
         {
             DetectAndAttractEnemies();
@@ -206,14 +206,14 @@ public class Normal : MonoBehaviour
             AttractEnemyToMouth();
         }
 
-        // 2. Z키를 뗐는데 아무도 안 빨린 경우: 실패 처리
+        // Z키를 뗐는데 아무도 안 빨린 경우: 실패 처리
         if (!isInputHeld && currentInhaledEnemy == null)
         {
             HandleInhaleFailure();
         }
     }
 
-    // 3. 빨아들이기 취소 (Z 키를 떼거나, 다른 동작을 시도할 때)
+    // 빨아들이기 취소 (Z 키를 떼거나, 다른 동작을 시도할 때)
     public void CancelInhale(bool isInputCancellation)
     {
         if (!IsSucking) return;
@@ -233,10 +233,10 @@ public class Normal : MonoBehaviour
             anim.SetTrigger("InhaleCancel");
         }
 
-        /// 적 놓아주기 및 물리 복구
+        // 적 놓아주기 및 물리 복구
         if (currentTarget != null)
         {
-            // ★ 인터페이스 메서드 호출 (상태 복구)
+            // 인터페이스 메서드 호출 (상태 복구)
             currentTarget.OnInhaleCancel();
 
             // 충돌 무시 해제
@@ -250,7 +250,7 @@ public class Normal : MonoBehaviour
         }
     }
 
-    // 4. 빨아들이기 성공 (적을 삼켜 별을 머금은 상태로 전환)
+    // 빨아들이기 성공
     private void HandleInhaleSuccess()
     {
         IsSucking = false;
@@ -263,8 +263,6 @@ public class Normal : MonoBehaviour
         }
 
         anim.SetBool("HasStar", true);
-
-        // 애니메이션: 빨아들이기 성공 애니메이션 ("InhaleSuccess")
         anim.SetTrigger("InhaleSuccess");
 
         if (AudioManager.Instance != null)
@@ -275,7 +273,7 @@ public class Normal : MonoBehaviour
         Debug.Log("빨아들이기 성공. 별을 머금었습니다.");
     }
 
-    // 5. 빨아들이기 실패 (Z키를 뗐는데 아무도 안 빨렸을 때)
+    // 빨아들이기 실패 (Z키를 뗐는데 아무도 안 빨렸을 때)
     private void HandleInhaleFailure()
     {
         if (!IsSucking) return;
@@ -294,7 +292,7 @@ public class Normal : MonoBehaviour
         Debug.Log("빨아들이기 실패.");
     }
 
-    // 6. 뱉어내기 및 삼키기
+    // 뱉어내기 및 삼키기
     public void SpitStar()
     {
         if (!HasStar) return;
@@ -320,7 +318,6 @@ public class Normal : MonoBehaviour
 
     public void LaunchStar()
     {
-        // HasStar가 false인지 다시 확인 (SpitStar에서 이미 false로 설정됨)
         // 발사 위치 설정
         Vector3 spitPos = transform.position + new Vector3(transform.localScale.x * 0.5f, 0, 0);
 
@@ -335,7 +332,7 @@ public class Normal : MonoBehaviour
             // 커비가 바라보는 방향으로 Launch 함수 호출
             float direction = transform.localScale.x;
 
-            // ★★★ Launch 함수 호출로 속도와 방향 설정 ★★★
+            // Launch 함수 호출로 속도와 방향 설정
             starScript.Launch(direction);
         }
         else
@@ -351,9 +348,9 @@ public class Normal : MonoBehaviour
     }
 
     // IsDelaying 플래그를 Kirby_Controller의 입력 무시 로직과 연동해야 합니다. 
-    private IEnumerator AbilityDelay_co(float duration) // 이름 변경: Delay_co -> AbilityDelay_co
+    private IEnumerator AbilityDelay_co(float duration)
     {
-        IsDelaying = true; // ★ 플래그 활성화: 능력 입력 무시 시작
+        IsDelaying = true; // 플래그 활성화: 능력 입력 무시 시작
         yield return new WaitForSeconds(duration);
         IsDelaying = false; // 플래그 비활성화: 입력 다시 받기
     }
@@ -371,7 +368,7 @@ public class Normal : MonoBehaviour
 
             Debug.Log($"능력 복사 중: {copiedAbility}");
 
-            // ★ 능력 복사 연출 코루틴 시작
+            // 능력 복사 연출 코루틴 시작
             StartCoroutine(AbilityCopyCutscene_co(copiedAbility));
 
             // 사용 후 초기화
@@ -400,10 +397,10 @@ public class Normal : MonoBehaviour
         }
 
 
-        // 1. 게임 먼저 멈춤
+        // 게임 멈춤
         Time.timeScale = 0f;
 
-        // 2. Animator를 Unscaled Time으로 변경
+        // Animator를 Unscaled Time으로 변경
         anim.updateMode = AnimatorUpdateMode.UnscaledTime;
 
         if (AudioManager.Instance != null)
@@ -411,10 +408,10 @@ public class Normal : MonoBehaviour
             AudioManager.Instance.PlaySwallowSFX();
         }
 
-        // 삼키기 애니메이션 (멈춘 상태에서 재생)
+        // 삼키기 애니메이션
         anim.SetTrigger("Swallow");
 
-        // ★ 4. 어두워지는 효과 (페이드 인)
+        // 어두워지는 효과 (페이드 인)
         if (darkOverlay != null)
         {
             float fadeTimer = 0f;
@@ -433,7 +430,7 @@ public class Normal : MonoBehaviour
             }
         }
 
-        // 삼키기 애니메이션 대기 (realtime 사용)
+        // 삼키기 애니메이션 대기
         yield return new WaitForSecondsRealtime(0.3f);
 
         if (AudioManager.Instance != null)
@@ -474,7 +471,7 @@ public class Normal : MonoBehaviour
             darkOverlay.color = finalColor;
         }
 
-        // 9. 오버레이 비활성화
+        // 오버레이 비활성화
         if (timeStopOverlay != null)
         {
             timeStopOverlay.SetActive(false);
@@ -495,9 +492,6 @@ public class Normal : MonoBehaviour
         // 커비가 바라보는 방향 (1 또는 -1)
         float direction = transform.localScale.x;
 
-        // 1. OverlapBox의 크기와 위치 설정 (흡입 입구 역할)
-        // Box의 폭: inhaleRange 만큼 설정 (흡입이 미치는 최대 거리)
-        // Box의 높이: 커비의 크기나 원하는 흡입 높이에 따라 조절 (예: 1.0f)
         Vector2 boxSize = new Vector2(inhaleRange, 0.5f);
 
         // Box의 중심 위치: 
@@ -505,7 +499,7 @@ public class Normal : MonoBehaviour
         // 즉, 커비 몸통에서 흡입 박스 길이의 절반만큼 떨어진 정면 위치
         Vector2 boxCenter = rb.position + new Vector2(direction * boxSize.x / 2.0f, 0f);
 
-        // 2. OverlapBox로 적 탐지 (0f는 회전 각도)
+        // OverlapBox로 적 탐지 (0f는 회전 각도)
         Collider2D hit = Physics2D.OverlapBox(boxCenter, boxSize, 0f, enemyLayer);
 
         // Debugging을 위해 탐지 영역 그리기
